@@ -1,0 +1,8 @@
+project: rnshah9/tinycbor
+target: tinycbor
+tests: null
+image: ghcr.io/rnshah9/playground:tinycbor
+
+cmds:
+  - cmd: /repo/bin/cbordump @@
+    # filepath: /test.c
