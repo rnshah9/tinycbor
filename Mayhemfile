@@ -1,6 +1,5 @@
-project: rnshah9/tinycbor
+project: tinycbor
 target: cbordump
-tests: null
 
 cmds:
   - cmd: /repo/bin/cbordump @@
