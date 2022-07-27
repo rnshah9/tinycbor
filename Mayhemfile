@@ -2,4 +2,4 @@ project: tinycbor
 target: cbordump
 
 cmds:
-  - cmd: /repo/bin/cbordump @@
+  - cmd: /install/usr/local/bin/cbordump @@
